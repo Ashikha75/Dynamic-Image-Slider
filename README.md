@@ -1,0 +1,5 @@
+The Dynamic Image Slider is a simple web project that allows users to view multiple images in a smooth and interactive way. The slider automatically transitions between images, and users can also navigate manually using next and previous buttons. This makes it easier to showcase pictures, banners, or other visual content in a user-friendly manner.
+
+This project is built using HTML, CSS, and JavaScript. HTML provides the structure, CSS is used for styling and animations, and JavaScript handles the dynamic functionality like image switching and autoplay. The slider is designed to be responsive, so it works well on all devices including desktops, tablets, and mobile phones.
+
+The main goal of this project is to create an engaging visual component that enhances a website’s user interface. Users can easily add new images to the slider, making it flexible and scalable. This project demonstrates basic front-end development skills while providing a visually appealing and functional feature for websites.
